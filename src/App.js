@@ -1,5 +1,5 @@
 import React from "react";
-import Esercizio from "./components/Esercizio";
+import Esercizio from "./components/Esercizio01";
 
 function App() {
     return (
