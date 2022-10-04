@@ -1,9 +1,9 @@
 import React from "react";
-import Esercizio from "./components/Esercizio"; 
+import Esercizio03 from "./components/Esercizio03"; 
 
 function App() {
     return (
-        <Esercizio />
+        <Esercizio03 a={3} b={4} />
   );
 }
 
